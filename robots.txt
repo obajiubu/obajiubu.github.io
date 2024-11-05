@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obajiubu.github.io/LCe/sitemap_index.txt
+Sitemap: https://obajiubu.github.io/PmA/sitemap_index.txt
+Sitemap: https://obajiubu.github.io/YMr/sitemap_index.txt
+Sitemap: https://obajiubu.github.io/haJ/sitemap_index.txt
